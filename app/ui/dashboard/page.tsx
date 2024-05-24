@@ -1,3 +1,4 @@
+import { Cookie } from 'next/font/google'
 import React from 'react'
 
 function Page() {
